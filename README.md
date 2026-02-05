@@ -41,7 +41,7 @@ I am an **Information Systems** student at **Universitas Indonesia** with a pass
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nextjs,vue,py,pytorch,tensorflow,sklearn,java,spring,django,postgres,supabase,docker,git,postman,selenium,latex&perline=10" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,js,ts,nextjs,vue,py,pytorch,tensorflow,sklearn,java,spring,django,postgres,supabase,docker,git,postman,selenium,aws&perline=10" />
   </a>
 </p>
 

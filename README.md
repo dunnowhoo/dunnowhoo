@@ -57,10 +57,6 @@ I'm an Information Systems student at Universitas Indonesia with a foundation in
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dunnowhoo&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/></a>
 </p>
 
-## Get in touch
-
-I'm currently available for projects and opportunities. Whether you have a question or just want to say hi, feel free to reach out.
-
 <p align="center">
   <a href="https://www.fauzansanjaya.dev"><img src="https://img.shields.io/badge/Website-fauzansanjaya.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: fauzansanjaya.dev"/></a>
   <a href="https://www.linkedin.com/in/fauzansanjaya"><img src="https://img.shields.io/badge/LinkedIn-fauzansanjaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: fauzansanjaya"/></a>

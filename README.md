@@ -35,7 +35,7 @@ I'm an Information Systems student at Universitas Indonesia with a foundation in
   <a href="https://play.google.com/store/apps/details?id=com.tvri.citizenjournalism&hl=en"><img src="assets/projects/tvri.svg" width="49%" alt="TVRI Citizen Journalism: Flutter app with real-time chat"/></a>
 </p>
 <p align="center">
-  <a href="https://kai-pandu.vercel.app/"><img src="assets/projects/kai-pandu.svg" width="49%" alt="KAI Pandu: accessibility app for visually impaired train passengers"/></a>
+  <a href="https://kai-pandu.vercel.app/"><img src="assets/projects/kai-pandu.svg" width="49%" alt="KAI Pandu: accessibility app for visually impaired train passengers, 2nd Winner Hacksphere 2025"/></a>
   <a href="https://qrypto.vercel.app/login"><img src="assets/projects/qrypto.svg" width="49%" alt="QRypto: pay QRIS merchants with the IDRX stablecoin"/></a>
 </p>
 

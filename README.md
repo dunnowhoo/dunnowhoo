@@ -26,18 +26,20 @@ I'm an Information Systems student at Universitas Indonesia with a foundation in
 
 ## Selected projects
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **DermatoAI** | 2nd Runner Up, Datathon RISTEK 2026. Multimodal agentic AI for skin lesion triage: two ONNX models fuse the photo with patient history, and a code-enforced safety gate, not the LLM, decides urgency. Built the FastAPI backend, FSM agent orchestrator, and Cloud Run CI/CD. | [Model](https://huggingface.co/dunnowho/dermatoai-multimodal) |
-| **DKE Smart Sales & CRM** | Omnichannel sales and customer care platform for a major aesthetic clinic, built on Next.js 16 and Odoo 17. Real-time multi-session WhatsApp shared inbox (SSE + Redis Pub/Sub) with atomic SQL locking, deployed with Docker on GCP. Lead Programmer & Cloud Architect. | [Frontend](https://github.com/dunnowhoo/dke-fe) · [Backend](https://github.com/dunnowhoo/dke-be) · [Demo](https://propenheimer.vercel.app) |
-| **Rekap AI** | Turns Bank Mandiri and BCA e-Statement PDFs into a monthly spending recap. Deterministic merchant rules run first; a Groq LLM handles only unrecognized merchants and falls back to the rules on failure. | [App](https://www.rekap-ai.com/) |
-| **Saka** | Mental health and resilience app funded by the BIMA research grant: K-10 assessment with asynchronous facial and speech emotion recognition. Flutter (Clean Architecture, BLoC) on Supabase. | – |
-| **Almanac** | Quantitative crypto futures trading system. A momentum ensemble from an 11-strategy tournament, re-validated on 88 coins over 6 years with a Deflated Sharpe Ratio check. Python engine plus a Next.js dashboard. | – |
-| **TVRI Citizen Journalism** | Citizen journalism app for TVRI Nasional with real-time chat and video reporting. Built the WebSocket chat in Flutter and shipped to the App Store and Google Play. | [Google Play](https://play.google.com/store/apps/details?id=com.tvri.citizenjournalism&hl=en) |
-| **KAI Pandu** | AI-powered accessibility app for visually impaired train passengers, with voice commands and real-time object detection (YOLOv11, TFLite). | [Demo](https://kai-pandu.vercel.app/) |
-| **QRypto** | Base Mini-App bridging the IDRX stablecoin to QRIS merchants, with gasless transactions via Account Abstraction and Passkey login through Coinbase Smart Wallet. | [Code](https://github.com/dunnowhoo/qrypto-app) · [Demo](https://qrypto.vercel.app/login) |
-| **Social Media Stance Analysis** | Stance analysis of public discourse across X and YouTube (35,000+ data points). Fine-tuned IndoBERTweet to 85.90% accuracy, ahead of SVM and XGBoost baselines. | [Code](https://github.com/dunnowhoo/socialmedia-stance-analysis) |
-| **Emoji Inpainting** | Image restoration with a conditional GAN (Pix2Pix), a U-Net generator, and a PatchGAN discriminator in PyTorch. | [Code](https://github.com/dunnowhoo/image-inpainting) |
+<p align="center">
+  <a href="https://huggingface.co/dunnowho/dermatoai-multimodal"><img src="assets/projects/dermatoai.svg" width="49%" alt="DermatoAI: multimodal skin-lesion triage, 2nd Runner Up Datathon RISTEK 2026"/></a>
+  <a href="https://propenheimer.vercel.app"><img src="assets/projects/dke.svg" width="49%" alt="DKE Smart Sales & CRM: real-time WhatsApp shared inbox and CRM"/></a>
+</p>
+<p align="center">
+  <a href="https://www.rekap-ai.com/"><img src="assets/projects/rekap-ai.svg" width="49%" alt="Rekap AI: bank e-statement PDFs to monthly spending recap"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.tvri.citizenjournalism&hl=en"><img src="assets/projects/tvri.svg" width="49%" alt="TVRI Citizen Journalism: Flutter app with real-time chat"/></a>
+</p>
+<p align="center">
+  <a href="https://kai-pandu.vercel.app/"><img src="assets/projects/kai-pandu.svg" width="49%" alt="KAI Pandu: accessibility app for visually impaired train passengers"/></a>
+  <a href="https://qrypto.vercel.app/login"><img src="assets/projects/qrypto.svg" width="49%" alt="QRypto: pay QRIS merchants with the IDRX stablecoin"/></a>
+</p>
+
+<p align="center"><sub>Also: <b>Saka</b>, a BIMA-funded mental health app · <b>Almanac</b>, a quant crypto futures system · <a href="https://github.com/dunnowhoo/socialmedia-stance-analysis"><b>Stance Analysis</b></a>, IndoBERTweet at 85.9% · <a href="https://github.com/dunnowhoo/image-inpainting"><b>Emoji Inpainting</b></a>, Pix2Pix GAN · Code for DKE: <a href="https://github.com/dunnowhoo/dke-fe">frontend</a>, <a href="https://github.com/dunnowhoo/dke-be">backend</a> · QRypto: <a href="https://github.com/dunnowhoo/qrypto-app">code</a></sub></p>
 
 ## Tech stack
 
